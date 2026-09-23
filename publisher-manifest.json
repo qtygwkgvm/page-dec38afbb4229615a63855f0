@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7412109569b8260a597222a1",
+  "owner": "qtygwkgvm",
+  "repo": "page-dec38afbb4229615a63855f0",
+  "title": "幻影",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dec38afbb4229615a63855f0",
+      "a": "幻影",
+      "b": "2027最新官网",
+      "entity": "幻影",
+      "brand": "幻影",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f40f81fbe7d1125eabe63f5f0fa78397cdc4e99ac1e1e06dee63ea247372c9aa",
+      "content": {
+        "primary_entity": "幻影",
+        "keyword1": "幻影",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择匹配的客户端。",
+          "AI_CLIENTS_TITLE": "幻影客户端下载与适配",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选好套餐，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选对套餐，配置更顺畅",
+          "AI_DESCRIPTION": "，专注为跨区访问场景提供加速服务，按设备数量与流量需求划分基础版、旗舰版和团队版。基础版每月 100GB 流量适合单人轻度使用，旗舰版每月 300GB 并优化 IPLC 专线游戏加速，团队版每月 1000GB 支持二十台设备。按年付可节省两个月费用，订阅配置可参考对应客户端说明完成。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备数量到订阅周期，三方面快速判断。",
+          "AI_FEATURES_TITLE": "幻影选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、支持 3 台设备，适合单人轻度浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、支持 5 台设备，IPLC 专线更适合游戏和稳定观看。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、支持 20 台设备，适合小团队共享和高带宽场景。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备估容量",
+          "AI_FEATURE_TITLE_3": "按周期算成本",
+          "AI_GUIDE_INTRO": "先明确使用人数与流量需求，再按设备配置订阅。",
+          "AI_GUIDE_TITLE": "三步开始使用幻影",
+          "AI_HERO_INTRO": "幻影提供跨区网络加速服务，按流量与设备数量划分基础版、旗舰版和团队版。基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并优化 IPLC 专线，团队版每月 1000GB 支持 20 台设备。按年付可节省两个月费用，选择与设备匹配的客户端即可开始配置订阅。",
+          "AI_HERO_SUBTITLE": "幻影加速，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "按年付节省两个月费用",
+          "AI_PLANS_INTRO": "基础版适合单人轻度使用，旗舰版兼顾游戏与流媒体，团队版满足多设备共享。按年付分别为 150 元、350 元和 850 元。",
+          "AI_PLANS_TITLE": "幻影套餐对比",
+          "AI_STEP_TEXT_1": "根据使用人数和每月流量需求，在基础版、旗舰版和团队版中选择。",
+          "AI_STEP_TEXT_2": "确认设备系统与同时在线数量，选择对应客户端版本。",
+          "AI_STEP_TEXT_3": "按照客户端文档导入订阅信息，完成连接配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅信息",
+          "AI_VISUAL_TITLE": "幻影多端加速",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备同时在线，适合手机与电脑轻度使用的个人用户。",
+          "AI_FAQ_ANSWER_2": "旗舰版每月 300GB 流量，支持 5 台设备，包含 IPLC 专线游戏加速优化和 7x24 优先工单支持。",
+          "AI_FAQ_ANSWER_3": "团队版每月 1000GB 流量，支持 20 台设备同时在线，提供 VIP 专属高带宽节点和企业定制路由。",
+          "AI_FAQ_ANSWER_4": "可以。在客户端中添加订阅配置，导入节点链接后选择线路连接即可。",
+          "AI_FAQ_ANSWER_5": "可以。各套餐均提供按年付价格，如旗舰版按年付仅需 ¥350/年，比按月支付更划算。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合什么样的用户？",
+          "AI_FAQ_QUESTION_2": "旗舰版的专线有什么优势？",
+          "AI_FAQ_QUESTION_3": "团队版最多支持多少设备？",
+          "AI_FAQ_QUESTION_4": "可以在多个设备上使用同一个订阅吗？",
+          "AI_FAQ_QUESTION_5": "是否支持按年付费？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dantayunssr.com",
+    "host": "dantayunssr.com"
+  },
+  "file_hashes": {
+    "index.html": "4cbe53fb1c6f1a5f035efa923792891e79f4952c071306c40d5a548cbe0acf64",
+    "sitemap.xml": "34f7ecdb6839b9c7f55aa07f57e69f4a8a5be6344282738ad0b56eda25c20192",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "11047f063152851363d9fc8b1cead1b93da02d72d2b54ab0e43ed8a7d1eaecae",
+    "robots.txt": "f08a6d1b910081e499f6c2213052403428257ab7b44995d0400b44432f7a2d88",
+    "6e602b0a6976dee938e9d1e01ed38c14.txt": "7aaa81c1dc8ebbd4f77ffd65f0aba58a8e836ec8130c41acfa411ad80ffdcb31"
+  },
+  "revision": "396f0e9e9f01197cf64b8a0d70c95b5d1403f6b1a51d5780a7a64c84ac4f6253"
+}
